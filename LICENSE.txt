@@ -289,3 +289,4 @@ IV)  It is not allowed to remove this license from the distribution of the Vim
      license for previous Vim releases instead of the license that they came
      with, at your option.
 
+hi shubham loves neovim
